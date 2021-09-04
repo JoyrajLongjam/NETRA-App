@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347547192259",
+    "project_id": "netra-app-efe6b",
+    "storage_bucket": "netra-app-efe6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347547192259:android:e9a3f2be42f6a263aa8b76",
+        "android_client_info": {
+          "package_name": "com.joyrajlongjam.netraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347547192259-ja9it78jjtd27hh29v0kirv5ovq0dmav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyrajlongjam.netraapp",
+            "certificate_hash": "e871877d3e63aaf6f5c989100a19090756d9026c"
+          }
+        },
+        {
+          "client_id": "347547192259-ometssj6msmpta9vplgvhmqicgh04aeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMwBBHfbTLP_Yw1vp4bI-QKQKkNPQpfcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347547192259-ometssj6msmpta9vplgvhmqicgh04aeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
